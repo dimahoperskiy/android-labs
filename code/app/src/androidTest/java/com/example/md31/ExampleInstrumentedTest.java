@@ -1,4 +1,4 @@
-package com.example.md23;
+package com.example.md31;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.md23", appContext.getPackageName());
+        assertEquals("com.example.md31", appContext.getPackageName());
     }
 }
