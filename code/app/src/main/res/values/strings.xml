@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Лаба 2.3</string>
+    <string name="description">Категории</string>
+    <string name="home_tasks">Дом</string>
+    <string name="gym_tasks">Зал</string>
+    <string name="job_tasks">Работа</string>
+    <string name="add_text">Добавить</string>
+    <string name="add_hint">Дело</string>
+</resources>
